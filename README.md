@@ -1,2 +1,2 @@
-# iitm_bsc
+# iitm_bs_foundation_python
 Python Assignments
